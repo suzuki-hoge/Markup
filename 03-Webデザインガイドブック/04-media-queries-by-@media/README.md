@@ -1,1 +1,1 @@
-[プレビュー](http://tenshipure.github.io/Markup/03-Webデザインガイドブック/04-media-queries-by-@media/index.html)
+[プレビュー](http://suzuki-hoge.github.io/markup/03-Webデザインガイドブック/04-media-queries-by-@media/index.html)

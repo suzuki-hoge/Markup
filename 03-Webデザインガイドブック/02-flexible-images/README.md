@@ -1,1 +1,1 @@
-[プレビュー](http://tenshipure.github.io/Markup/03-Webデザインガイドブック/02-flexible-images/index.html)
+[プレビュー](http://suzuki-hoge.github.io/markup/03-Webデザインガイドブック/02-flexible-images/index.html)
